@@ -1,0 +1,41 @@
+const shoplist = [
+    {
+        id:'1',
+        image:'http://img3x8.ddimg.cn/82/33/28531288-1_b_4.jpg',
+        shopname:'剑来（1-7）（烽火戏诸侯全新长篇古典仙侠力作）',
+        price:'253.00'
+    },
+    {
+        id:'2',
+        image:'http://img3x7.ddimg.cn/17/15/28526867-1_b_3.jpg',
+        shopname:'娜是光照亮的地方【综艺女王谢娜全新力作！】',
+        price:'253.00'
+    },
+    {
+        id:'3',
+        image:'http://img3x5.ddimg.cn/51/34/26921715-1_b_2.jpg',
+        shopname:'娜是光照亮的地方【综艺女王谢娜全新力作！】',
+        price:'253.00'
+    },
+    {
+        id:'4',
+        image:'http://img3x5.ddimg.cn/56/4/23761145-1_b_6.jpg',
+        shopname:'人间失格（日本小说家太宰治的自传体小说，李现推荐）',
+        price:'253.00'
+    },
+    {
+        id:'3',
+        image:'http://img3x9.ddimg.cn/97/26/23726239-1_b_3.jpg',
+        shopname:'娜是光照亮的地方【综艺女王谢娜全新力作！】',
+        price:'253.00'
+    },
+    {
+        id:'4',
+        image:'http://img3x6.ddimg.cn/19/5/25105726-1_b_16.jpg',
+        shopname:'人间失格（日本小说家太宰治的自传体小说，李现推荐）',
+        price:'253.00'
+    }
+];
+export default {
+    shoplist
+}
